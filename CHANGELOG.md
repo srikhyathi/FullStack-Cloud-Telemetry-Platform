@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-01-28
-- Commit: 50/64
-- Module: feat(alerting): add dynamic anomaly detection for API error rate spikes
+- Commit: 51/64
+- Module: fix(security): sanitize bearer tokens and PII from span attributes
