@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-02-16
-- Commit: 4/129
-- Module: fix(memory): prevent goroutine leak in connection pool reconnect loop
+- Commit: 5/129
+- Module: docs(observability): document distributed tracing standards and best practices
