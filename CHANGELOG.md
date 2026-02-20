@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-02-20
-- Commit: 52/129
-- Module: feat(metrics): add Prometheus gauge for p99 distributed request latency
+- Commit: 53/129
+- Module: refactor(pipeline): decouple trace sampling engine from batch exporter
