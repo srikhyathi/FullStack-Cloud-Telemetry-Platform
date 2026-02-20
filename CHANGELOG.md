@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-02-20
-- Commit: 57/129
-- Module: docs(specs): formalize OpenTelemetry schema contract for microservices
+- Commit: 58/129
+- Module: feat(dashboard): add Grafana dashboard provisioning for service mesh traces
