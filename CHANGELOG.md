@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-03-27
-- Commit: 95/124
-- Module: test(ingest): verify out-of-order span buffering and deduplication
+- Commit: 96/124
+- Module: feat(alerting): add dynamic anomaly detection for API error rate spikes
