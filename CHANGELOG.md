@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-04-21
-- Commit: 38/139
-- Module: fix(security): sanitize bearer tokens and PII from span attributes
+- Commit: 39/139
+- Module: docs(specs): formalize OpenTelemetry schema contract for microservices
