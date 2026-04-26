@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-04-26
-- Commit: 2/132
-- Module: refactor(pipeline): decouple trace sampling engine from batch exporter
+- Commit: 3/132
+- Module: test(ingest): verify out-of-order span buffering and deduplication
