@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-05-08
-- Commit: 20/126
-- Module: perf(buffer): optimize zero-copy ring buffer for ring-fenced kernel tracing
+- Commit: 21/126
+- Module: feat(export): add streaming Kafka sink for enterprise audit event logs
