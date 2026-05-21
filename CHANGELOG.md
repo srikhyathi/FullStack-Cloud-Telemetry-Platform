@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-05-21
-- Commit: 96/147
-- Module: perf(storage): optimize ClickHouse trace index partition compression
+- Commit: 97/147
+- Module: feat(metrics): add Prometheus gauge for p99 distributed request latency
