@@ -1,4 +1,4 @@
 # Cloud-Native Distributed Telemetry Platform
 - Date: 2026-06-27
-- Commit: 24/142
-- Module: feat(collector): implement high-throughput OTLP gRPC trace ingestion pipeline
+- Commit: 25/142
+- Module: perf(storage): optimize ClickHouse trace index partition compression
